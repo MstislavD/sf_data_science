@@ -16,6 +16,8 @@ Quality of an algorithm is measured by the mean number of attemts after 1000 rep
 ### Brief data characterisation
 
 ### Project stages
+1. Algorithm that uses random approach
+2. Algorithm that updates [min, max] range at every step and picks next guess from its middle
 
 ### Results
 
