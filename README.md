@@ -3,5 +3,9 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects
 * [Project 0. Game: Guess the number](https://github.com/MstislavD/sf_data_science/tree/main/project_0)
-* [Project 1. _______](_____)
+* [Project 1. Data analysis and cleaning (FOR MENTOR REVIEW)](https://github.com/MstislavD/sf_data_science/tree/main/PY_PROJECT_1)
 * [Project 2. _______](_____)
+
+## Data Links
+
+* [HH Data for Project 1](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
