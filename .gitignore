@@ -22,6 +22,7 @@ var/
 wheels/
 share/python-wheels/
 skillfactory/
+data/
 *.egg-info/
 .installed.cfg
 *.egg
