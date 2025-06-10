@@ -22,6 +22,7 @@ var/
 wheels/
 share/python-wheels/
 skillfactory/
+fantlab/
 data/
 *.egg-info/
 .installed.cfg
